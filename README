@@ -1,0 +1,8 @@
+This command requires that exactly one argument be given. Use an underscore to
+represent blanks in the word you are trying to discover.
+
+e.g.:
+    6 Down) Computer expert, formerly associated with M.I.T. and now associated
+    with security breaking.
+
+./crossword.sh __ck_r
